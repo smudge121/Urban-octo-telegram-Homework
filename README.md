@@ -9,9 +9,9 @@ source code more readable.  I also restructured the CSS stylesheet to remove red
 
 To view the project:
 1.  First Download the zip file from the Urban-octo-telegram-Homework repository.
-2.  Within the zip file should be a 'Develop' folder containing
+2.  Within the zip file should be
   -  The webpage as 'index.html' 
-  -  An Assets folder containg the css and images used on the webpage
+  -  A Develop folder containg the assets, css, and images used on the webpage
 3.  Use any browser or text editor of choice to view the files.
 
 ![Screenshot of finished Web Page](./Develop/assets/images/Screenshot.png)
