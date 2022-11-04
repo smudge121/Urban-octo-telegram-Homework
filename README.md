@@ -19,6 +19,7 @@ To view the project:
 ## Credits
 
 Original Source Code supplied by UCI Bootcamp.
+Developer: Jaret Ishii
 
 ## License
 
